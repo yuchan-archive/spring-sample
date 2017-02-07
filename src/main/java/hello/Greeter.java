@@ -10,5 +10,7 @@ package main.java.hello;
  * @author yusuke ohashi
  */
 public class Greeter {
-    
+    public String sayHello() {
+        return "hello world!";
+    }
 }
