@@ -1,0 +1,35 @@
+### https://raw.github.com/github/gitignore/9ef1596ac14f77ddd79a74e3f621ee117022e107/Global/NetBeans.gitignore
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+### https://raw.github.com/github/gitignore/9ef1596ac14f77ddd79a74e3f621ee117022e107/Java.gitignore
+
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
