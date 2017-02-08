@@ -1,5 +1,7 @@
 Day 1:
 
-[Build java program with Gradle](http://spring.io/guides/gs/gradle/)
+[Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
 
+Day 2:
 
+TBD
