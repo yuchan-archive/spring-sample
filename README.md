@@ -4,4 +4,4 @@ Day 1:
 
 Day 2:
 
-TBD
+[Building Java Projects with Maven](http://spring.io/guides/gs/maven/)
