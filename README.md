@@ -1,3 +1,9 @@
+Sprint Sample
+===============
+
+I am going to read [Spring Guide](http://spring.io/guides) one by one.
+And I am crafting sample project by hand.
+
 Day 1:
 
 [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
