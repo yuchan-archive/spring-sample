@@ -50,3 +50,19 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 
+### https://raw.github.com/github/gitignore/9ef1596ac14f77ddd79a74e3f621ee117022e107/Maven.gitignore
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
+
+
