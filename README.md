@@ -11,3 +11,7 @@ Day 1:
 Day 2:
 
 [Building Java Projects with Maven](http://spring.io/guides/gs/maven/)
+
+Day 3:
+
+[Building a RESTful Web Service](http://spring.io/guides/gs/rest-service/)
